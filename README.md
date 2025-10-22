@@ -1,9 +1,2 @@
-<html>
-  <head>
-    <link rel="styleshet" type="text/css" src="./styles.css">
-  </head>
-
-  <body>
-    <h1>hiya!</h1>
-  </body>
-</html>
+<h1>hiya! welcome to my profile!</h1>
+<p>check out some of my <strong>pinned repos</strong> below.</p>

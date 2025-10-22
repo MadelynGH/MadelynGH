@@ -1,1 +1,9 @@
-<h1 style="@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap'); font-family: Aboreto;">hiya!</h1>
+<html>
+  <head>
+    <link rel="styleshet" type="text/css" src="./styles.css">
+  </head>
+
+  <body>
+    <h1>hiya!</h1>
+  </body>
+</html>
